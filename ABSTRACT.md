@@ -1,5 +1,5 @@
+The authors of the **AISegment Mattings Human** dataset introduce a compelling application known as human segmentation, which involves the high-resolution extraction of humans from images. Despite its many potential uses, this problem remains significantly under-constrained, prompting active research efforts to develop more sophisticated methods. The dataset is designed to contribute to this research by offering a high-quality collection of images and corresponding masks.
 
-Sample image template:
-<img src="https://github.com/dataset-ninja/gland-segmentation/assets/78355358/f158d0dd-71d5-41a2-aba5-4a5f57d54c35" alt="image" width="800">
+The dataset stands as the largest portrait matting dataset to date, comprising 34,425 images along with their corresponding matting results. Notably, the dataset has been meticulously annotated by Beijing Play Star Convergence Technology Co., Ltd., ensuring high quality. Moreover, a portrait soft segmentation model, trained on this dataset, has been successfully commercialized.
 
-<span style="font-size: smaller; font-style: italic;">Image description.</span>
+The original images within the dataset are sourced from platforms such as Flickr, Baidu, and Taobao. After undergoing face detection and area cropping, the dataset presents half-length portraits of dimensions 600x800, showcasing a commitment to maintaining quality throughout the data preparation process.
