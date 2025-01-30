@@ -1,6 +1,6 @@
 Dataset **Mattings Human** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://www.dropbox.com/scl/fi/2nl175gga8dtfl8d1zpgk/mattings-human-DatasetNinja.tar?rlkey=hx10u8qohk381g444qso2xbke&dl=1)
+ [Download](https://assets.supervisely.com/remote/eyJsaW5rIjogImZzOi8vYXNzZXRzLzMxMjNfTWF0dGluZ3MgSHVtYW4vbWF0dGluZ3MtaHVtYW4tRGF0YXNldE5pbmphLnRhciIsICJzaWciOiAibDhnalhQQTZLZkl5dHc5MklxM2x0YkhqcjZ0eHVqcS9xYUFJNUIrNktkcz0ifQ==)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
